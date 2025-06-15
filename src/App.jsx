@@ -3,6 +3,7 @@ import React, { Suspense } from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import MainPage from './pages/MainPage';
 const HyOrderCalculator = React.lazy(() => import('./calculators/HyOrderCalculator'));
+const TVBizCalculator = React.lazy(() => import('./calculators/TVBizCalculator'));
 
 export default function App() {
   return (
@@ -14,6 +15,9 @@ export default function App() {
 
           {/* 하이오더 계산기 경로로 */}
           <Route path="/hiorder" element={<HyOrderCalculator />} />
+ 
+          {/* tv_biz 계산기 경로로 */}
+          <Route path="/tvbiz" element={<TVBizCalculator />} />
 
           {/* 그 외 모든 경로는 메인으로로 */}
           <Route path="*" element={<MainPage />} />
