@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/kt_total_calcu/static/css/main.643fe886.css",
-    "main.js": "/kt_total_calcu/static/js/main.21b2bfcd.js",
+    "main.css": "/kt_total_calcu/static/css/main.acf78be5.css",
+    "main.js": "/kt_total_calcu/static/js/main.9cfb311b.js",
     "static/js/631.38a4c5b9.chunk.js": "/kt_total_calcu/static/js/631.38a4c5b9.chunk.js",
     "static/js/215.65d26349.chunk.js": "/kt_total_calcu/static/js/215.65d26349.chunk.js",
     "static/js/1.30623716.chunk.js": "/kt_total_calcu/static/js/1.30623716.chunk.js",
     "static/js/163.1f0d7511.chunk.js": "/kt_total_calcu/static/js/163.1f0d7511.chunk.js",
     "static/js/16.503c8686.chunk.js": "/kt_total_calcu/static/js/16.503c8686.chunk.js",
-    "static/js/353.bd335800.chunk.js": "/kt_total_calcu/static/js/353.bd335800.chunk.js",
+    "static/js/584.dfe3fe8e.chunk.js": "/kt_total_calcu/static/js/584.dfe3fe8e.chunk.js",
     "index.html": "/kt_total_calcu/index.html",
-    "main.643fe886.css.map": "/kt_total_calcu/static/css/main.643fe886.css.map",
-    "main.21b2bfcd.js.map": "/kt_total_calcu/static/js/main.21b2bfcd.js.map",
+    "main.acf78be5.css.map": "/kt_total_calcu/static/css/main.acf78be5.css.map",
+    "main.9cfb311b.js.map": "/kt_total_calcu/static/js/main.9cfb311b.js.map",
     "631.38a4c5b9.chunk.js.map": "/kt_total_calcu/static/js/631.38a4c5b9.chunk.js.map",
     "215.65d26349.chunk.js.map": "/kt_total_calcu/static/js/215.65d26349.chunk.js.map",
     "1.30623716.chunk.js.map": "/kt_total_calcu/static/js/1.30623716.chunk.js.map",
     "163.1f0d7511.chunk.js.map": "/kt_total_calcu/static/js/163.1f0d7511.chunk.js.map",
     "16.503c8686.chunk.js.map": "/kt_total_calcu/static/js/16.503c8686.chunk.js.map",
-    "353.bd335800.chunk.js.map": "/kt_total_calcu/static/js/353.bd335800.chunk.js.map"
+    "584.dfe3fe8e.chunk.js.map": "/kt_total_calcu/static/js/584.dfe3fe8e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.643fe886.css",
-    "static/js/main.21b2bfcd.js"
+    "static/css/main.acf78be5.css",
+    "static/js/main.9cfb311b.js"
   ]
 }
