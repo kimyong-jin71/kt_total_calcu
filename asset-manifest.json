@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/kt_total_calcu/static/css/main.1ace7301.css",
-    "main.js": "/kt_total_calcu/static/js/main.ef729c74.js",
-    "static/js/319.6b25cb9c.chunk.js": "/kt_total_calcu/static/js/319.6b25cb9c.chunk.js",
+    "main.js": "/kt_total_calcu/static/js/main.7d22ddb7.js",
+    "static/js/319.6890fa9b.chunk.js": "/kt_total_calcu/static/js/319.6890fa9b.chunk.js",
     "static/js/631.38a4c5b9.chunk.js": "/kt_total_calcu/static/js/631.38a4c5b9.chunk.js",
     "static/js/215.e751b433.chunk.js": "/kt_total_calcu/static/js/215.e751b433.chunk.js",
     "static/js/1.30623716.chunk.js": "/kt_total_calcu/static/js/1.30623716.chunk.js",
     "static/js/163.1f0d7511.chunk.js": "/kt_total_calcu/static/js/163.1f0d7511.chunk.js",
-    "static/js/16.3314664e.chunk.js": "/kt_total_calcu/static/js/16.3314664e.chunk.js",
+    "static/js/16.74399208.chunk.js": "/kt_total_calcu/static/js/16.74399208.chunk.js",
     "static/js/610.adee5091.chunk.js": "/kt_total_calcu/static/js/610.adee5091.chunk.js",
     "index.html": "/kt_total_calcu/index.html",
     "main.1ace7301.css.map": "/kt_total_calcu/static/css/main.1ace7301.css.map",
-    "main.ef729c74.js.map": "/kt_total_calcu/static/js/main.ef729c74.js.map",
-    "319.6b25cb9c.chunk.js.map": "/kt_total_calcu/static/js/319.6b25cb9c.chunk.js.map",
+    "main.7d22ddb7.js.map": "/kt_total_calcu/static/js/main.7d22ddb7.js.map",
+    "319.6890fa9b.chunk.js.map": "/kt_total_calcu/static/js/319.6890fa9b.chunk.js.map",
     "631.38a4c5b9.chunk.js.map": "/kt_total_calcu/static/js/631.38a4c5b9.chunk.js.map",
     "215.e751b433.chunk.js.map": "/kt_total_calcu/static/js/215.e751b433.chunk.js.map",
     "1.30623716.chunk.js.map": "/kt_total_calcu/static/js/1.30623716.chunk.js.map",
     "163.1f0d7511.chunk.js.map": "/kt_total_calcu/static/js/163.1f0d7511.chunk.js.map",
-    "16.3314664e.chunk.js.map": "/kt_total_calcu/static/js/16.3314664e.chunk.js.map",
+    "16.74399208.chunk.js.map": "/kt_total_calcu/static/js/16.74399208.chunk.js.map",
     "610.adee5091.chunk.js.map": "/kt_total_calcu/static/js/610.adee5091.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ace7301.css",
-    "static/js/main.ef729c74.js"
+    "static/js/main.7d22ddb7.js"
   ]
 }
