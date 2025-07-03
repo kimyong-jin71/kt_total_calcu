@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/kt_total_calcu/static/css/main.1ace7301.css",
-    "main.js": "/kt_total_calcu/static/js/main.1e72f5da.js",
+    "main.css": "/kt_total_calcu/static/css/main.03426e48.css",
+    "main.js": "/kt_total_calcu/static/js/main.553f1e62.js",
     "static/js/214.d5c7fa1e.chunk.js": "/kt_total_calcu/static/js/214.d5c7fa1e.chunk.js",
     "static/js/631.38a4c5b9.chunk.js": "/kt_total_calcu/static/js/631.38a4c5b9.chunk.js",
     "static/js/215.e751b433.chunk.js": "/kt_total_calcu/static/js/215.e751b433.chunk.js",
     "static/js/1.30623716.chunk.js": "/kt_total_calcu/static/js/1.30623716.chunk.js",
     "static/js/163.1f0d7511.chunk.js": "/kt_total_calcu/static/js/163.1f0d7511.chunk.js",
     "static/js/354.f044d855.chunk.js": "/kt_total_calcu/static/js/354.f044d855.chunk.js",
-    "static/js/610.adee5091.chunk.js": "/kt_total_calcu/static/js/610.adee5091.chunk.js",
+    "static/js/610.1228fff0.chunk.js": "/kt_total_calcu/static/js/610.1228fff0.chunk.js",
     "static/js/382.e1029aaf.chunk.js": "/kt_total_calcu/static/js/382.e1029aaf.chunk.js",
     "index.html": "/kt_total_calcu/index.html",
-    "main.1ace7301.css.map": "/kt_total_calcu/static/css/main.1ace7301.css.map",
-    "main.1e72f5da.js.map": "/kt_total_calcu/static/js/main.1e72f5da.js.map",
+    "main.03426e48.css.map": "/kt_total_calcu/static/css/main.03426e48.css.map",
+    "main.553f1e62.js.map": "/kt_total_calcu/static/js/main.553f1e62.js.map",
     "214.d5c7fa1e.chunk.js.map": "/kt_total_calcu/static/js/214.d5c7fa1e.chunk.js.map",
     "631.38a4c5b9.chunk.js.map": "/kt_total_calcu/static/js/631.38a4c5b9.chunk.js.map",
     "215.e751b433.chunk.js.map": "/kt_total_calcu/static/js/215.e751b433.chunk.js.map",
     "1.30623716.chunk.js.map": "/kt_total_calcu/static/js/1.30623716.chunk.js.map",
     "163.1f0d7511.chunk.js.map": "/kt_total_calcu/static/js/163.1f0d7511.chunk.js.map",
     "354.f044d855.chunk.js.map": "/kt_total_calcu/static/js/354.f044d855.chunk.js.map",
-    "610.adee5091.chunk.js.map": "/kt_total_calcu/static/js/610.adee5091.chunk.js.map",
+    "610.1228fff0.chunk.js.map": "/kt_total_calcu/static/js/610.1228fff0.chunk.js.map",
     "382.e1029aaf.chunk.js.map": "/kt_total_calcu/static/js/382.e1029aaf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ace7301.css",
-    "static/js/main.1e72f5da.js"
+    "static/css/main.03426e48.css",
+    "static/js/main.553f1e62.js"
   ]
 }
