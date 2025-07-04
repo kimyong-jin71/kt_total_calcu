@@ -1,29 +1,31 @@
 {
   "files": {
-    "main.css": "/kt_total_calcu/static/css/main.54606e73.css",
-    "main.js": "/kt_total_calcu/static/js/main.0ad2edab.js",
-    "static/js/214.f237e6bc.chunk.js": "/kt_total_calcu/static/js/214.f237e6bc.chunk.js",
+    "main.css": "/kt_total_calcu/static/css/main.dfac3ddb.css",
+    "main.js": "/kt_total_calcu/static/js/main.635ccf71.js",
+    "static/js/660.9660898f.chunk.js": "/kt_total_calcu/static/js/660.9660898f.chunk.js",
     "static/js/631.38a4c5b9.chunk.js": "/kt_total_calcu/static/js/631.38a4c5b9.chunk.js",
     "static/js/215.e751b433.chunk.js": "/kt_total_calcu/static/js/215.e751b433.chunk.js",
     "static/js/1.30623716.chunk.js": "/kt_total_calcu/static/js/1.30623716.chunk.js",
     "static/js/163.1f0d7511.chunk.js": "/kt_total_calcu/static/js/163.1f0d7511.chunk.js",
-    "static/js/354.bbe7c24b.chunk.js": "/kt_total_calcu/static/js/354.bbe7c24b.chunk.js",
-    "static/js/610.e4ab5cc9.chunk.js": "/kt_total_calcu/static/js/610.e4ab5cc9.chunk.js",
-    "static/js/382.e1029aaf.chunk.js": "/kt_total_calcu/static/js/382.e1029aaf.chunk.js",
+    "static/js/354.7712abdb.chunk.js": "/kt_total_calcu/static/js/354.7712abdb.chunk.js",
+    "static/js/610.766f393c.chunk.js": "/kt_total_calcu/static/js/610.766f393c.chunk.js",
+    "static/js/817.d296b9c9.chunk.js": "/kt_total_calcu/static/js/817.d296b9c9.chunk.js",
+    "static/js/850.b533fed8.chunk.js": "/kt_total_calcu/static/js/850.b533fed8.chunk.js",
     "index.html": "/kt_total_calcu/index.html",
-    "main.54606e73.css.map": "/kt_total_calcu/static/css/main.54606e73.css.map",
-    "main.0ad2edab.js.map": "/kt_total_calcu/static/js/main.0ad2edab.js.map",
-    "214.f237e6bc.chunk.js.map": "/kt_total_calcu/static/js/214.f237e6bc.chunk.js.map",
+    "main.dfac3ddb.css.map": "/kt_total_calcu/static/css/main.dfac3ddb.css.map",
+    "main.635ccf71.js.map": "/kt_total_calcu/static/js/main.635ccf71.js.map",
+    "660.9660898f.chunk.js.map": "/kt_total_calcu/static/js/660.9660898f.chunk.js.map",
     "631.38a4c5b9.chunk.js.map": "/kt_total_calcu/static/js/631.38a4c5b9.chunk.js.map",
     "215.e751b433.chunk.js.map": "/kt_total_calcu/static/js/215.e751b433.chunk.js.map",
     "1.30623716.chunk.js.map": "/kt_total_calcu/static/js/1.30623716.chunk.js.map",
     "163.1f0d7511.chunk.js.map": "/kt_total_calcu/static/js/163.1f0d7511.chunk.js.map",
-    "354.bbe7c24b.chunk.js.map": "/kt_total_calcu/static/js/354.bbe7c24b.chunk.js.map",
-    "610.e4ab5cc9.chunk.js.map": "/kt_total_calcu/static/js/610.e4ab5cc9.chunk.js.map",
-    "382.e1029aaf.chunk.js.map": "/kt_total_calcu/static/js/382.e1029aaf.chunk.js.map"
+    "354.7712abdb.chunk.js.map": "/kt_total_calcu/static/js/354.7712abdb.chunk.js.map",
+    "610.766f393c.chunk.js.map": "/kt_total_calcu/static/js/610.766f393c.chunk.js.map",
+    "817.d296b9c9.chunk.js.map": "/kt_total_calcu/static/js/817.d296b9c9.chunk.js.map",
+    "850.b533fed8.chunk.js.map": "/kt_total_calcu/static/js/850.b533fed8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.54606e73.css",
-    "static/js/main.0ad2edab.js"
+    "static/css/main.dfac3ddb.css",
+    "static/js/main.635ccf71.js"
   ]
 }
