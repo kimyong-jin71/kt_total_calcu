@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/kt_total_calcu/static/css/main.dfac3ddb.css",
-    "main.js": "/kt_total_calcu/static/js/main.635ccf71.js",
-    "static/js/660.9660898f.chunk.js": "/kt_total_calcu/static/js/660.9660898f.chunk.js",
+    "main.css": "/kt_total_calcu/static/css/main.d4944fa9.css",
+    "main.js": "/kt_total_calcu/static/js/main.f0375df1.js",
+    "static/js/813.a4b4a77f.chunk.js": "/kt_total_calcu/static/js/813.a4b4a77f.chunk.js",
     "static/js/631.38a4c5b9.chunk.js": "/kt_total_calcu/static/js/631.38a4c5b9.chunk.js",
     "static/js/215.e751b433.chunk.js": "/kt_total_calcu/static/js/215.e751b433.chunk.js",
     "static/js/1.30623716.chunk.js": "/kt_total_calcu/static/js/1.30623716.chunk.js",
     "static/js/163.1f0d7511.chunk.js": "/kt_total_calcu/static/js/163.1f0d7511.chunk.js",
     "static/js/354.7712abdb.chunk.js": "/kt_total_calcu/static/js/354.7712abdb.chunk.js",
     "static/js/610.766f393c.chunk.js": "/kt_total_calcu/static/js/610.766f393c.chunk.js",
-    "static/js/817.d296b9c9.chunk.js": "/kt_total_calcu/static/js/817.d296b9c9.chunk.js",
+    "static/js/612.1effa9ae.chunk.js": "/kt_total_calcu/static/js/612.1effa9ae.chunk.js",
     "static/js/850.b533fed8.chunk.js": "/kt_total_calcu/static/js/850.b533fed8.chunk.js",
     "index.html": "/kt_total_calcu/index.html",
-    "main.dfac3ddb.css.map": "/kt_total_calcu/static/css/main.dfac3ddb.css.map",
-    "main.635ccf71.js.map": "/kt_total_calcu/static/js/main.635ccf71.js.map",
-    "660.9660898f.chunk.js.map": "/kt_total_calcu/static/js/660.9660898f.chunk.js.map",
+    "main.d4944fa9.css.map": "/kt_total_calcu/static/css/main.d4944fa9.css.map",
+    "main.f0375df1.js.map": "/kt_total_calcu/static/js/main.f0375df1.js.map",
+    "813.a4b4a77f.chunk.js.map": "/kt_total_calcu/static/js/813.a4b4a77f.chunk.js.map",
     "631.38a4c5b9.chunk.js.map": "/kt_total_calcu/static/js/631.38a4c5b9.chunk.js.map",
     "215.e751b433.chunk.js.map": "/kt_total_calcu/static/js/215.e751b433.chunk.js.map",
     "1.30623716.chunk.js.map": "/kt_total_calcu/static/js/1.30623716.chunk.js.map",
     "163.1f0d7511.chunk.js.map": "/kt_total_calcu/static/js/163.1f0d7511.chunk.js.map",
     "354.7712abdb.chunk.js.map": "/kt_total_calcu/static/js/354.7712abdb.chunk.js.map",
     "610.766f393c.chunk.js.map": "/kt_total_calcu/static/js/610.766f393c.chunk.js.map",
-    "817.d296b9c9.chunk.js.map": "/kt_total_calcu/static/js/817.d296b9c9.chunk.js.map",
+    "612.1effa9ae.chunk.js.map": "/kt_total_calcu/static/js/612.1effa9ae.chunk.js.map",
     "850.b533fed8.chunk.js.map": "/kt_total_calcu/static/js/850.b533fed8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfac3ddb.css",
-    "static/js/main.635ccf71.js"
+    "static/css/main.d4944fa9.css",
+    "static/js/main.f0375df1.js"
   ]
 }
