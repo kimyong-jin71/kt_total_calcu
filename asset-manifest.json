@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/kt_total_calcu/static/css/main.e77e7e66.css",
-    "main.js": "/kt_total_calcu/static/js/main.cb7689ac.js",
-    "static/js/214.475b4570.chunk.js": "/kt_total_calcu/static/js/214.475b4570.chunk.js",
+    "main.css": "/kt_total_calcu/static/css/main.fd8c64d7.css",
+    "main.js": "/kt_total_calcu/static/js/main.c7315a83.js",
+    "static/js/214.77f77d88.chunk.js": "/kt_total_calcu/static/js/214.77f77d88.chunk.js",
     "static/js/631.ce0cd5d7.chunk.js": "/kt_total_calcu/static/js/631.ce0cd5d7.chunk.js",
     "static/js/215.ea5c9a5e.chunk.js": "/kt_total_calcu/static/js/215.ea5c9a5e.chunk.js",
     "static/js/1.132d492c.chunk.js": "/kt_total_calcu/static/js/1.132d492c.chunk.js",
@@ -12,9 +12,9 @@
     "static/js/817.d296b9c9.chunk.js": "/kt_total_calcu/static/js/817.d296b9c9.chunk.js",
     "static/js/850.b533fed8.chunk.js": "/kt_total_calcu/static/js/850.b533fed8.chunk.js",
     "index.html": "/kt_total_calcu/index.html",
-    "main.e77e7e66.css.map": "/kt_total_calcu/static/css/main.e77e7e66.css.map",
-    "main.cb7689ac.js.map": "/kt_total_calcu/static/js/main.cb7689ac.js.map",
-    "214.475b4570.chunk.js.map": "/kt_total_calcu/static/js/214.475b4570.chunk.js.map",
+    "main.fd8c64d7.css.map": "/kt_total_calcu/static/css/main.fd8c64d7.css.map",
+    "main.c7315a83.js.map": "/kt_total_calcu/static/js/main.c7315a83.js.map",
+    "214.77f77d88.chunk.js.map": "/kt_total_calcu/static/js/214.77f77d88.chunk.js.map",
     "631.ce0cd5d7.chunk.js.map": "/kt_total_calcu/static/js/631.ce0cd5d7.chunk.js.map",
     "215.ea5c9a5e.chunk.js.map": "/kt_total_calcu/static/js/215.ea5c9a5e.chunk.js.map",
     "1.132d492c.chunk.js.map": "/kt_total_calcu/static/js/1.132d492c.chunk.js.map",
@@ -25,7 +25,7 @@
     "850.b533fed8.chunk.js.map": "/kt_total_calcu/static/js/850.b533fed8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e77e7e66.css",
-    "static/js/main.cb7689ac.js"
+    "static/css/main.fd8c64d7.css",
+    "static/js/main.c7315a83.js"
   ]
 }
