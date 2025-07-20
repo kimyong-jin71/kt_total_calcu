@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/kt_total_calcu/static/css/main.b1a25dff.css",
-    "main.js": "/kt_total_calcu/static/js/main.c805efc9.js",
+    "main.js": "/kt_total_calcu/static/js/main.d2319350.js",
     "static/js/214.77f77d88.chunk.js": "/kt_total_calcu/static/js/214.77f77d88.chunk.js",
     "static/js/631.6fdce96b.chunk.js": "/kt_total_calcu/static/js/631.6fdce96b.chunk.js",
     "static/js/215.c8456b81.chunk.js": "/kt_total_calcu/static/js/215.c8456b81.chunk.js",
-    "static/js/1.98fd6f02.chunk.js": "/kt_total_calcu/static/js/1.98fd6f02.chunk.js",
-    "static/js/153.7f68c889.chunk.js": "/kt_total_calcu/static/js/153.7f68c889.chunk.js",
+    "static/js/1.1c9966cf.chunk.js": "/kt_total_calcu/static/js/1.1c9966cf.chunk.js",
+    "static/js/153.2956b2bc.chunk.js": "/kt_total_calcu/static/js/153.2956b2bc.chunk.js",
     "static/js/354.29b2d9a7.chunk.js": "/kt_total_calcu/static/js/354.29b2d9a7.chunk.js",
     "static/js/610.e4ab5cc9.chunk.js": "/kt_total_calcu/static/js/610.e4ab5cc9.chunk.js",
     "static/js/239.bf551f15.chunk.js": "/kt_total_calcu/static/js/239.bf551f15.chunk.js",
     "static/js/850.b533fed8.chunk.js": "/kt_total_calcu/static/js/850.b533fed8.chunk.js",
     "index.html": "/kt_total_calcu/index.html",
     "main.b1a25dff.css.map": "/kt_total_calcu/static/css/main.b1a25dff.css.map",
-    "main.c805efc9.js.map": "/kt_total_calcu/static/js/main.c805efc9.js.map",
+    "main.d2319350.js.map": "/kt_total_calcu/static/js/main.d2319350.js.map",
     "214.77f77d88.chunk.js.map": "/kt_total_calcu/static/js/214.77f77d88.chunk.js.map",
     "631.6fdce96b.chunk.js.map": "/kt_total_calcu/static/js/631.6fdce96b.chunk.js.map",
     "215.c8456b81.chunk.js.map": "/kt_total_calcu/static/js/215.c8456b81.chunk.js.map",
-    "1.98fd6f02.chunk.js.map": "/kt_total_calcu/static/js/1.98fd6f02.chunk.js.map",
-    "153.7f68c889.chunk.js.map": "/kt_total_calcu/static/js/153.7f68c889.chunk.js.map",
+    "1.1c9966cf.chunk.js.map": "/kt_total_calcu/static/js/1.1c9966cf.chunk.js.map",
+    "153.2956b2bc.chunk.js.map": "/kt_total_calcu/static/js/153.2956b2bc.chunk.js.map",
     "354.29b2d9a7.chunk.js.map": "/kt_total_calcu/static/js/354.29b2d9a7.chunk.js.map",
     "610.e4ab5cc9.chunk.js.map": "/kt_total_calcu/static/js/610.e4ab5cc9.chunk.js.map",
     "239.bf551f15.chunk.js.map": "/kt_total_calcu/static/js/239.bf551f15.chunk.js.map",
@@ -26,6 +26,6 @@
   },
   "entrypoints": [
     "static/css/main.b1a25dff.css",
-    "static/js/main.c805efc9.js"
+    "static/js/main.d2319350.js"
   ]
 }
